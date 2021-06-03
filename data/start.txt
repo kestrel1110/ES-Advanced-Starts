@@ -8,10 +8,10 @@ start "northern"
 	planet "Prime"
 	conversation "northern intro"
 	account
-		credits 3000000
+		credits 1000000
 		score 400
 		mortgage Mortgage
-			principal 3000000
+			principal 1000000
 			interest 0.008
 			term 730
 	set "license: Pilot's"
