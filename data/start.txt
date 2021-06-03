@@ -8,7 +8,7 @@ start "northern"
 	planet "Prime"
 	conversation "northern intro"
 	account
-		credits 480000
+		credits 3000000
 		score 400
 		mortgage Mortgage
 			principal 3000000
