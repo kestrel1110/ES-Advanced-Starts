@@ -1,5 +1,5 @@
 start "northern"
-	name "Endless Sky"
+	name "Endless Sky Northern Start"
 	description `You grew up on Prime in Betelgeuse striving to get enough money to buy your first ship, and now after 15 years on your dockworker job, you have it.`
 	description `	After receiving the license and with freedom from this planet at your fingertips, you travel to the bank to take out a loan on your first ship...`
 	thumbnail "scene/lobby"
